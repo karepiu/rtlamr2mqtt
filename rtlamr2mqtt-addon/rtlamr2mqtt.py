@@ -219,7 +219,7 @@ def load_config(argv):
             'verbosity': 'info',
             'tickle_rtl_tcp': False,
             'device_id': 'single',
-            'rtltcp_server': '127.0.0.1:1234',
+            'rtltcp_server': 'local',
         },
         'mqtt': {
             'host': None,

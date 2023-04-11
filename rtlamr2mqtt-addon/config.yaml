@@ -9,8 +9,8 @@ boot: auto
 map:
   - config:rw
 url: https://github.com/allangood/rtlamr2mqtt
-uart: true
-udev: true
+uart: false
+udev: false
 usb: true
 host_network: false
 hassio_api: true
@@ -21,7 +21,7 @@ arch:
   - armhf
   - aarch64
 services:
-  - mqtt:need
+  - mqtt:want
 options:
   general:
     sleep_for: 300
