@@ -1,3 +1,8 @@
+THIS IS FORK or https://github.com/allangood/rtlamr2mqtt. 
+Please go and use his version as he did awesome job. 
+I am forkin it for some testing purposes. 
+
+
 ### RTLAMR2MQTT
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/allangood/rtlamr2mqtt)
